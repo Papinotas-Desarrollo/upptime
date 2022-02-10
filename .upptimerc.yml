@@ -14,7 +14,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  theme: ocean
+  theme: light
   cname: status.papinotasapp.com
   # baseUrl: /your-repo-name
   logoUrl: https://papinotas.cl/wp-content/uploads/2021/08/logo-papinotas.svg
