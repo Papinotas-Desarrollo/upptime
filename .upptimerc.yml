@@ -7,6 +7,8 @@ sites:
     url: https://papinotasapp.com/user
   - name: Papinotas Homepage
     url: https://www.papinotas.cl
+  - name: Microservicio Firma Digital
+    url: $IDENTITY_VALIDATOR_MICROSERVICE_HEALTHCHECK
 assignees:
   # You can add members of your team to be assigned to every downtime issue
   - felipe-calderon-papinotas
