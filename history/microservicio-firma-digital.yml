@@ -1,7 +1,7 @@
 url: $IDENTITY_VALIDATOR_MICROSERVICE_HEALTHCHECK
 status: up
 code: 200
-responseTime: 219
-lastUpdated: 2022-03-22T18:36:50.409Z
+responseTime: 233
+lastUpdated: 2022-03-22T18:50:04.376Z
 startTime: Tue Mar 08 2022 15:24:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
